@@ -1,0 +1,197 @@
+/*CSS EXERCICE*/
+ 
+ *{
+ 	box-sizing: border-box;
+ 	-webkit-box-sizing: border-box;
+ 	-moz-box-sizing: border-box;
+ }
+
+ body{
+ 	color: #000000;
+ 	margin: 0;
+ 	font-size: 100%;
+ 	line-height: 15px;
+ }
+
+ .container {
+ 	background: #E7E9EB;
+ 	width: 100%;
+ 	overflow: auto;
+ 	position: absolute;
+ 	top: 100px;
+ 	bottom: 0;
+ 	height: auto;
+ 	min-height: 250px;
+ 	min-width: 550px;
+ }
+
+ .Animal-Table{
+ 	width: 220px;
+ 	border:1px solid transparent;
+ 	padding: 10px;
+ }
+
+ .markup{
+ 	color: #aaaaaa;
+ 	font-size: 12px;
+ 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 	font-weight: normal;
+ }
+
+ .form-container{
+ 	background-color: #99D6FF;
+ 	border:1px solid #0099FF;
+ 	padding: 10px;
+ }
+
+ .form-control{
+ 	overflow: auto;
+ }
+
+ .name,.email{
+ 	width: 100px;
+ 	float: left
+ }
+
+ .input-name, .input-email{
+ 	width: 180px;
+ 	float: left;
+ }
+
+ .radio-section{
+ 	margin-top: 10px;
+ }
+
+ .input-radio{
+ 	outline: 2px solid transparent;
+ }
+
+ .label{
+ 	width: 60px;
+ 	float: left;
+ }
+
+ .input-checkbox{
+ 	width: 20px;
+ 	float: left;
+ }
+
+/* .intro{
+ 	 background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }
+
+ #Lastname{
+
+ 	 background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+/*.intro,  #Lastname{
+
+ 	 background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+ /*h1{
+
+ 	 background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+/* h1, p{
+ 		 background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+/* div p {
+ 	background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+/* div > p {
+ 	background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }
+*/
+/* ul + p {
+ 	background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+/*  ul ~ table {
+ 	background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+ /*p.myquote{
+ 	background: yellow;
+ 	font-family: "Courrier New", Courrier, monospace;
+ 	font-family: Verdana,Geneva, Tahoma sans-serif;
+ 	font-size: 14px;
+ 	font-weight: normal;
+ 	line-height: 16px;
+ 	border: 1px solid red;
+ 	cursor: pointer;
+ }*/
+
+ form{
+ 	font-family: Arial;
+ 	border-radius: 15px;
+ }
+
+ 
